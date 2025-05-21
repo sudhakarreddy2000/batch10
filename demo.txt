@@ -1,2 +1,3 @@
 hello git.
 ==========
+today is wednesday
